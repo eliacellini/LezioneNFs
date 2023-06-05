@@ -8,7 +8,7 @@
   3. Introduzione ai Normalizing Flows: [Normalizing Flows for Probabilistic Modeling and Inference](https://arxiv.org/abs/1912.02762), G. Papamakarios et al.
  
 * Tutorial
-  1. Tutorial corso: 
+  1. Tutorial lezione: 
   2. Tutorial simile ma in [Keras](https://keras.io/examples/generative/real_nvp/)
   3. Ottimo tutorial sui normalizing flows per la computer vision: [Pytorch](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial11/NF_image_modeling.html), [JAX+FLAX](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/JAX/tutorial11/NF_image_modeling.html)
   
