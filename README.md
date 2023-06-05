@@ -6,15 +6,18 @@
   1. Inferenza variazionale: [Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), C. Bishop (capitolo 10).
   2. Primo Articolo: [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770), D. J. Rezende e S. Mohamed
   3. Introduzione ai Normalizing Flows: [Normalizing Flows for Probabilistic Modeling and Inference](https://arxiv.org/abs/1912.02762), G. Papamakarios et al.
-  4. Ottimo tutorial sui normalizing flows per la computer vision: [Pytorch](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial11/NF_image_modeling.html), [JAX+FLAX](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/JAX/tutorial11/NF_image_modeling.html)
-  5. Codice tuorial: 
+ 
+* Tutorial
+  1. Tutorial corso: 
+  2. Tutorial simile ma in [Keras](https://keras.io/examples/generative/real_nvp/)
+  3. Ottimo tutorial sui normalizing flows per la computer vision: [Pytorch](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial11/NF_image_modeling.html), [JAX+FLAX](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/JAX/tutorial11/NF_image_modeling.html)
   
 * **Architetture popolari**:
-  1. [NICE: Non-linear Independent Components Estimation](https://arxiv.org/abs/1410.8516), L. Dinh et al.
-  2. [Density estimation using Real NVP](https://arxiv.org/abs/1605.08803), L. Dinh et al.
-  3. [Glow: Generative Flow with Invertible 1x1 Convolutions](https://arxiv.org/abs/1807.03039),  D. Kingma e P. Dhariwal
+  1. [Density estimation using Real NVP](https://arxiv.org/abs/1605.08803), L. Dinh et al.
+  2. [Glow: Generative Flow with Invertible 1x1 Convolutions](https://arxiv.org/abs/1807.03039),  D. Kingma e P. Dhariwal
+  3. [FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models](https://arxiv.org/abs/1810.01367), W Grathwohl et al. (Continuous NFs)
 
-## Normalizing Flows per campionare distribuzioni Boltzmann
+## Normalizing Flows per campionare distribuzioni di Boltzmann
 * **Quantum chemistry**:
   1. [Boltzmann generators: Sampling equilibrium states of many-body systems with deep learning](https://www.science.org/doi/10.1126/science.aaw1147), F. Noé et al.
 
