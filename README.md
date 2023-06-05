@@ -3,7 +3,7 @@
 
 ## Referenze:
 * **Teoria**:
-  1. Inferenza variazionale: [Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), C. Bishop (capitolo 10).
+  1. Inferenza variazionale: [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), C. Bishop (capitolo 10).
   2. Primo Articolo: [Variational Inference with Normalizing Flows](https://arxiv.org/abs/1505.05770), D. J. Rezende e S. Mohamed
   3. Introduzione ai Normalizing Flows: [Normalizing Flows for Probabilistic Modeling and Inference](https://arxiv.org/abs/1912.02762), G. Papamakarios et al.
  
