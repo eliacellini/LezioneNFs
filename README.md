@@ -18,7 +18,7 @@
   3. [FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models](https://arxiv.org/abs/1810.01367), W Grathwohl et al. (Continuous NFs)
 
 ## Normalizing Flows per campionare distribuzioni di Boltzmann
-* **Quantum chemistry**:
+* **Fisica Chimica**:
   1. [Boltzmann generators: Sampling equilibrium states of many-body systems with deep learning](https://www.science.org/doi/10.1126/science.aaw1147), F. Noé et al.
 
 * **Quantum Field Theory**:
