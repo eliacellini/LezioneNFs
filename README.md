@@ -28,7 +28,7 @@
  
  * **Cosa abbiamo fatto/facciamo**:
     1. [Stochastic normalizing flows as non-equilibrium transformations](https://arxiv.org/abs/2201.08862) M. Caselle et al.
-    2. Simulazioni per teorie di stringa efficace (in preparazione), [Talk](https://www.youtube.com/watch?v=aiwCLeFqvg4)
+    2. Simulazioni di teorie di stringa efficace (in preparazione), [Talk](https://www.youtube.com/watch?v=aiwCLeFqvg4)
     3. Stochastic normalizing flows per teorie di gauge su reticolo (progetto appena partito)
 
 
